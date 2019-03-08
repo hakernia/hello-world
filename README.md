@@ -100,14 +100,14 @@ https://webaim.org/techniques/skipnav/
 
 
 ## GIT
-
+```
    git remote add origin https://github.com/maszklarz/fend_memory_game.git
    git remote -v                      - weryfikacja
    git push -u origin master
    git log --decorate --oneline --graph -all
    git diff --staged <filename>
    git reset --hard HEAD^   - remove the latest commit; works only before push!
-
+```
    
 
 ## Atom
